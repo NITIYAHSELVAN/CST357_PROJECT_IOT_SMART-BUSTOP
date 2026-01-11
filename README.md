@@ -2,7 +2,7 @@
 
 **Course:** CST357 - IoT Architecture & Smart Applications  
 **University:** Universiti Sains Malaysia (USM)  
-**Session:** Semester 1, 2025/2026
+
 
 ## 📖 Project Overview
 The **Smart Bus Stop IoT System** is an intelligent urban infrastructure solution designed to address energy waste and improve passenger comfort. By integrating an **ESP32 microcontroller** with environmental sensors and **Google Cloud Platform (GCP)**, this system automates cooling and lighting facilities based on real-time needs rather than continuous "always-on" operation.
@@ -89,7 +89,7 @@ The `main.py` script requires the following packages (listed in `requirement.txt
         ```
 4.  Upload the code to the ESP32.
 
-### Step 3: Analytics (Optional)
+### Step 3: Analytics
 1.  Create an account on **ThingsBoard.cloud**.
 2.  Create a new Device and copy its **Access Token**.
 3.  Paste this token into the `main.py` file on the cloud server.
@@ -111,8 +111,14 @@ This project supports **UN Sustainable Development Goal 11 (Sustainable Cities a
 
 ---
 
-**Project Team:**![Uploading 0 (2).png…]()
+**Project Team:**
 
 * Nitiyah Selvan A/L P.Suresh
 * Muhammad Arif Hakimi Bin Shamsul Hisham
 
+
+<img width="900" height="695" alt="0" src="https://github.com/user-attachments/assets/86c05df1-e220-4eb1-89c3-c30a678c9483" />
+<img width="1600" height="884" alt="0 (4)" src="https://github.com/user-attachments/assets/d8dd862f-05dc-49e7-8c52-eff6cbc34d8d" />
+<img width="1600" height="898" alt="0 (3)" src="https://github.com/user-attachments/assets/5336aaa5-9899-4974-add5-0837941bb9db" />
+<img width="1919" height="1079" alt="0 (2)" src="https://github.com/user-attachments/assets/9eda9f44-a4d9-4d0e-b1c6-f2653f9013b1" />
+<img width="1600" height="779" alt="0 (1)" src="https://github.com/user-attachments/assets/15bd94bd-3443-4d09-88cd-43f146734501" />
